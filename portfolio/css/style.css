@@ -1,0 +1,22 @@
+body{
+  font-family: 'Amatic SC', cursive;
+
+}
+
+.logo {
+  max-height: 100px;
+  margin-top: 10px;
+}
+
+.title-super{
+  font-size: 60px;
+}
+
+.text-muted{
+  font-size: 42px;
+  color: #BCBBBB;
+}
+
+.bracket-control{
+  max-height:40px;
+}
