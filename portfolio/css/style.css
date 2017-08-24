@@ -1,5 +1,5 @@
-body{
-  font-family: 'Amatic SC', cursive;
+body {
+  font-family: "Amatic SC", cursive;
 
 }
 
@@ -8,15 +8,15 @@ body{
   margin-top: 10px;
 }
 
-.title-super{
+.title-super {
   font-size: 60px;
 }
 
-.text-muted{
+.text-muted {
   font-size: 42px;
-  color: #BCBBBB;
+  color: #bcbbbb;
 }
 
-.bracket-control{
-  max-height:40px;
+.bracket-control {
+  max-height: 40px;
 }
